@@ -1,3 +1,5 @@
+//For use with Tinkercard
+
 int pir = 2;  // the number of the PIR pin
 int led = 13; // the number of the LED pin
 int pirStatus = 0; // initialise pir status
